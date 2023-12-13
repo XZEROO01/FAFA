@@ -20,32 +20,32 @@ global.APIKeys = {
 }
 
 //owmner v card
-global.owner = ['628'] //ur owner number
-global.ownernomer = "628" //ur owner number2
-global.ownername = "Queen Elisa MD" //ur owner name
-global.namaku = "Syarifah Firah Az Zahra A.Sy"
-global.ytname = "Queen Elisa" //ur yt chanel name
+global.owner = ['6282140506913'] //ur owner number
+global.ownernomer = "6282140506913" //ur owner number2
+global.ownername = "Rafzz" //ur owner name
+global.namaku = "rahasia"
+global.ytname = "ga da" //ur yt chanel name
 global.socialm = "Jangan spam bot atau owner bot" //ur github or insta name
 global.location = "Asia/Jakarta" //ur location
 
 //new
-global.botname = "Queen Elisa MD"
-global.ownernumber = '628'
-global.ownername = 'Elisa Cantip'
-global.ownerNumber = ["62895320660901@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@queenelisabot"
-global.websitex = "https://youtube.com/@queenelisabot"
-global.wagc = "https://youtube.com/@queenelisabot"
-global.themeemoji = '🚩'
-global.wm = "Created By Queen Elisa MD"
-global.wmbot = "Created By Queen Elisa MD"
+global.botname = "Xme MD"
+global.ownernumber = '6282140506913'
+global.ownername = 'Rafzz'
+global.ownerNumber = ["6282140506913@s.whatsapp.net"]
+global.ownerweb = "https"
+global.websitex = "https"
+global.wagc = "https://chat.whatsapp.com/JPHQbZSeG14Gdf5M8M0mOB"
+global.themeemoji = '🤟🏻'
+global.wm = "Created By Rafzz"
+global.wmbot = "Created By Xme MD"
 global.botscript = 'Sc Ini Private🤣?' //script link
-global.packname = "©Sticker"
+global.packname = "©Sticker by Xme"
 global.author = "Created By Queen Elisa MD"
-global.creator = "628@s.whatsapp.net"
+global.creator = "6282140506913@s.whatsapp.net"
 global.prefa = ['/','!','.','#','&']
 global.hituet = 0
-global.running = "Panel Pterodactyl"
+global.running = "Replit"
 //media target
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
@@ -60,7 +60,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Nih',
+    success: 'berhasil njirr🗿',
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
